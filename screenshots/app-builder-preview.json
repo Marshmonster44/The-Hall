@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Hall",
+      "hasCanvas": false,
+      "bodyTextLen": 759,
+      "bodyTextHash": "8f16a644ee4071aafe20547407e041fbb0786784a77189f97f229f98255519b4",
+      "bodyTextPrefix": "THE HALL David 01 / 35 Michelangelo Buonarroti 1501–1504 · Carra",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Hall",
+      "hasCanvas": false,
+      "bodyTextLen": 654,
+      "bodyTextHash": "5802c5be04d53cde0a6f19c6280543b4051431f816aab91c59e47b520ff098b8",
+      "bodyTextPrefix": "THE HALL David 01 / 35 Michelangelo Buonarroti 1501–1504 · Carra",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
